@@ -25,6 +25,7 @@ Once you enter the maze you will only have 100 moves to find two Warp Crystals. 
 ## Zerb gm ☕️
 
 Zerb gm ☕️ is your gateway to the Zero Being's magical universe! Mint a Zero Being to explore the maze, calculate point rarity, explore community music, play with friends in the arcade, and enjoy early access to Market gm ☕️!
+
 Zerb gm ☕️ [gm.zerobeings.xyz](https://gm.zerobeings.xyz)
 
 ## News & Community
