@@ -1,7 +1,7 @@
 # 🚀 Welcome to the Zero Beings NFT Universe 👾
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/Zerobeings/.github/blob/b66667b03d146f76ef394911d6ca88e11c9c0f7d/githubzerbbanner.png"
+    <img width="100%" src="https://raw.githubusercontent.com/Zerobeings/.github/main/githubzerbbanner.png"
 </p>
 
 # 🍬 Live Mints
